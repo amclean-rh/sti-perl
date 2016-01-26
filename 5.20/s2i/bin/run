@@ -8,4 +8,4 @@ export PATH=${PATH}:/opt/app-root/src/extlib/bin
 # does not apply to them.
 export PERL5LIB=/opt/app-root/src/extlib/lib/perl5
 
-exec /opt/app-root/src/extlib/bin/hypnotoad -f /opt/app-root/src/mojo-lite.pl
+/opt/app-root/src/extlib/bin/hypnotoad -f /opt/app-root/src/mojo-lite.pl
