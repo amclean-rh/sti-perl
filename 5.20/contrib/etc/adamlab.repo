@@ -1,0 +1,1878 @@
+[rh-gluster-3-nagios-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-nagios-for-rhel-7-server-debug-rpms/
+name = Red Hat Gluster Storage 3.1 Nagios ( Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-ose-3.0-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-ose-3.0-source-rpms/
+name = Red Hat OpenShift Enterprise 3.0 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-v2vwin-1-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-v2vwin-1-debug-rpms/
+name = Red Hat Virt V2V Tool for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aep-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aep-beta-source-rpms/
+name = Atomic Enterprise Platform Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhn-tools-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhn-tools-beta-debug-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-mrg-messaging-3-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-mrg-messaging-3-rpms/
+name = Red Hat Enterprise MRG Messaging 3 for RHEL 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-6.0-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-6.0-debug-rpms/
+name = Red Hat OpenStack 6.0 for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-extras-htb-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-extras-htb-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extras HTB (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-hana-for-rhel-7-server-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-hana-for-rhel-7-server-beta-debug-rpms/
+name = Red Hat Enterprise Linux for SAP HANA (RHEL 7 Server) Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-beta-debug-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-rh-common-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-rh-common-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - RH Common (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-director-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-director-debug-rpms/
+name = Red Hat Enterprise Linux OpenStack Platform 7.0 director for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-satellite-tools-6.1-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-satellite-tools-6.1-debug-rpms/
+name = Red Hat Satellite Tools 6.1 (for RHEL 7 Server - AUS) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-ose-3.0-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-ose-3.0-rpms/
+name = Red Hat OpenShift Enterprise 3.0 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhcmsys-9-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhcmsys-9-source-rpms/
+name = Red Hat Certificate System 9 Source RPMs (for RHEL 7 Server)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-mon-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-mon-rpms/
+name = Red Hat Ceph Storage MON 1.3 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-for-rhel-7-server-files]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-for-rhel-7-server-files/
+name = Red Hat Gluster Storage 3.1 Server (FILES)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-extras-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-extras-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extras (RPMs)
+enabled = 1
+gpgcheck=0
+
+[rhel-7-server-rhev-mgmt-agent-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhev-mgmt-agent-debug-rpms/
+name = Red Hat Enterprise Virtualization Management Agents for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-for-rhel-7-server-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-for-rhel-7-server-beta-debug-rpms/
+name = Red Hat Enterprise Linux for SAP (RHEL 7 Server) Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rh-common-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rh-common-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - RH Common (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-atomic-host-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-atomic-host-beta-debug-rpms/
+name = Red Hat Enterprise Linux Atomic Host Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhn-tools-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhn-tools-beta-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-nfs-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-nfs-for-rhel-7-server-source-rpms/
+name = Red Hat Gluster Storage 3.1 NFS (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sjis-for-rhel-7-server-aus-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sjis-for-rhel-7-server-aus-source-rpms/
+name = Red Hat Enterprise Linux for S-JIS (RHEL 7 Server) - AUS (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-supplementary-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-supplementary-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Supplementary (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-beta-cts-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-beta-cts-debug-rpms/
+name = Red Hat OpenStack Beta Certification Test Suite for Server 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-fastrack-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-fastrack-debug-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) - Fastrack (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-satellite-tools-6.1-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-satellite-tools-6.1-debug-rpms/
+name = Red Hat Satellite Tools 6.1 (for RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-calamari-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-calamari-source-rpms/
+name = Red Hat Ceph Storage Calamari 1.2 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-server-rhscl-7-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-server-rhscl-7-beta-source-rpms/
+name = Red Hat Software Collections Beta Source RPMs for Red Hat Enterprise Linux 7 Server
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-splunk-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-splunk-for-rhel-7-server-source-rpms/
+name = Red Hat Gluster Storage 3.1 Splunk (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[jws-3-for-rhel-6-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/jws-3-for-rhel-6-server-debug-rpms/
+name = JBoss Web Server 3 (RHEL 6 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-satellite-tools-6.1-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-satellite-tools-6.1-debug-rpms/
+name = Red Hat Satellite Tools 6.1 (for RHEL 7 Server - EUS) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-for-rhel-7-server-source-rpms/
+name = Red Hat Enterprise Linux for SAP (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-rpms/
+name = Red Hat Enterprise Linux OpenStack Platform 7.0 for RHEL 7 (RPMs)
+enabled = 1
+gpgcheck=0
+
+[rhel-7-server-rhevh-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhevh-beta-debug-rpms/
+name = Red Hat Enterprise Virtualization Hypervisor 7 Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-tools-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-tools-rpms/
+name = Red Hat OpenStack Tools 7.0 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 1
+gpgcheck=0
+
+[rhel-lb-for-rhel-7-server-htb-rpms]
+baseurl=http://192.168.10.100/repos/rhel-lb-for-rhel-7-server-htb-rpms/
+name = Red Hat Enterprise Linux Load Balancer (for RHEL 7 Server) HTB (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-beta-source-rpms/
+name = Red Hat OpenStack Beta for Server 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-htb-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-htb-rpms/
+name = Red Hat Enterprise Linux 7 Server HTB (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-installer-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-installer-rpms/
+name = Red Hat Ceph Storage Installer 1.3 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-eus-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-eus-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) - Extended Update Support (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-splunk-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-splunk-for-rhel-7-server-debug-rpms/
+name = Red Hat Gluster Storage 3.1 Splunk (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-console-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-console-for-rhel-7-server-debug-rpms/
+name = Red Hat Gluster Storage 3.1 Console (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhevh-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhevh-beta-rpms/
+name = Red Hat Enterprise Virtualization Hypervisor 7 Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-6.0-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-6.0-source-rpms/
+name = Red Hat OpenStack 6.0 for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-beta-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-source-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-atomic-preview-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-atomic-preview-debug-rpms/
+name = Red Hat Enterprise Linux Atomic Host Preview (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-server-rhscl-7-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-server-rhscl-7-beta-debug-rpms/
+name = Red Hat Software Collections Beta Debug RPMs for Red Hat Enterprise Linux 7 Server
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-client-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-client-for-rhel-7-server-debug-rpms/
+name = Red Hat Storage Native Client for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-fastrack-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-fastrack-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional Fastrack (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-hana-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-hana-for-rhel-7-server-rpms/
+name = Red Hat Enterprise Linux for SAP HANA (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-eus-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-eus-source-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) - Extended Update Support (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-rh-common-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-rh-common-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - RH Common (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sjis-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sjis-for-rhel-7-server-debug-rpms/
+name = Red Hat Enterprise Linux for S-JIS (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-fastrack-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-fastrack-debug-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) - Fastrack (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-mon-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-mon-source-rpms/
+name = Red Hat Ceph Storage MON 1.2 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-atomic-host-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-atomic-host-debug-rpms/
+name = Red Hat Enterprise Linux Atomic Host (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-ose-3.0-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-ose-3.0-debug-rpms/
+name = Red Hat OpenShift Enterprise 3.0 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-satellite-tools-6.1-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-satellite-tools-6.1-source-rpms/
+name = Red Hat Satellite Tools 6.1 (for RHEL 7 Server - EUS) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-beta-cts-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-beta-cts-source-rpms/
+name = Red Hat OpenStack Beta Certification Test Suite for Server 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-server-rhscl-7-eus-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-server-rhscl-7-eus-source-rpms/
+name = Red Hat Software Collections Source RPMs for Red Hat Enterprise Linux 7 RHEL 7 Server EUS
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-director-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-director-source-rpms/
+name = Red Hat Enterprise Linux OpenStack Platform 7.0 director for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-nagios-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-nagios-for-rhel-7-server-rpms/
+name = Red Hat Gluster Storage 3.1 Nagios (RPMs)
+enabled = 0
+gpgcheck=0
+
+[jws-3-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/jws-3-for-rhel-7-server-rpms/
+name = JBoss Web Server 3 (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-osd-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-osd-rpms/
+name = Red Hat Ceph Storage OSD 1.2 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-fastrack-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-fastrack-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional Fastrack (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rt-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rt-beta-debug-rpms/
+name = Red Hat Enterprise Linux for Real Time Beta (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[cf-me-5.5-for-rhel-7-rpms]
+baseurl=http://192.168.10.100/repos/cf-me-5.5-for-rhel-7-rpms/
+name = Red Hat CloudForms Management Engine 5.5 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhevh-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhevh-debug-rpms/
+name = Red Hat Enterprise Virtualization Hypervisor 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-satellite-tools-6.1-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-satellite-tools-6.1-rpms/
+name = Red Hat Satellite Tools 6.1 (for RHEL 7 Server - EUS) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-thirdparty-oracle-java-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-thirdparty-oracle-java-rpms/
+name = Red Hat Enterprise Linux 7 Server - Oracle Java (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-rh-common-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-rh-common-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - RH Common (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-calamari-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-calamari-debug-rpms/
+name = Red Hat Ceph Storage Calamari 1.2 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-fastrack-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-fastrack-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) - Fastrack (RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-ews-2-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/jb-ews-2-for-rhel-7-server-debug-rpms/
+name = JBoss Enterprise Web Server 2 (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-samba-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-samba-for-rhel-7-server-debug-rpms/
+name = Red Hat Gluster Storage 3.1 Samba (for RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-supplementary-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-supplementary-beta-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Supplementary Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-thirdparty-oracle-java-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-thirdparty-oracle-java-beta-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Oracle Java Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-eus-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-eus-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) - Extended Update Support (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rt-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rt-beta-source-rpms/
+name = Red Hat Enterprise Linux for Real Time Beta (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-beta-rpms/
+name = Red Hat Enterprise Linux 7 Server Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-supplementary-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-supplementary-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - Supplementary (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-rhn-tools-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-rhn-tools-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server - AUS (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-for-rhel-7-server-rpms/
+name = Red Hat Enterprise Linux for SAP (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-mon-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-mon-debug-rpms/
+name = Red Hat Ceph Storage MON 1.2 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-eap-6-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/jb-eap-6-for-rhel-7-server-rpms/
+name = JBoss Enterprise Application Platform 6 (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-x86_64-server-7-mrg-messaging-2-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-x86_64-server-7-mrg-messaging-2-source-rpms/
+name = Red Hat Enterprise MRG Messaging 2 for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-tools-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-tools-debug-rpms/
+name = Red Hat Ceph Storage Tools 1.3 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-eus-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-eus-source-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) - Extended Update Support (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-extras-htb-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-extras-htb-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extras HTB (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-server-rhscl-7-eus-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-server-rhscl-7-eus-debug-rpms/
+name = Red Hat Software Collections Debug RPMs for Red Hat Enterprise Linux 7 RHEL 7 Server EUS
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-samba-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-samba-for-rhel-7-server-rpms/
+name = Red Hat Gluster Storage 3.1 Samba (for RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sjis-for-rhel-7-server-aus-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sjis-for-rhel-7-server-aus-debug-rpms/
+name = Red Hat Enterprise Linux for S-JIS (RHEL 7 Server) - AUS (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-osd-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-osd-debug-rpms/
+name = Red Hat Ceph Storage OSD 1.3 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-console-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-console-for-rhel-7-server-source-rpms/
+name = Red Hat Gluster Storage 3.1 Console (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-atomic-host-htb-rpms]
+baseurl=http://192.168.10.100/repos/rhel-atomic-host-htb-rpms/
+name = Red Hat Enterprise Linux Atomic Host HTB (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-optional-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-optional-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - AUS - Optional (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-supplementary-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-supplementary-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - Supplementary (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhds-10-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhds-10-rpms/
+name = Red Hat Directory Server 10 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-cert-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-cert-rpms/
+name = Red Hat Certification (for RHEL 7 Server)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-6.0-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-6.0-rpms/
+name = Red Hat OpenStack 6.0 for RHEL 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rt-htb-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rt-htb-rpms/
+name = Red Hat Enterprise Linux for Real Time HTB (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-server-rhscl-7-rpms]
+baseurl=http://192.168.10.100/repos/rhel-server-rhscl-7-rpms/
+name = Red Hat Software Collections RPMs for Red Hat Enterprise Linux 7 Server
+enabled = 1
+gpgcheck=0
+
+[rhel-7-server-aus-optional-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-optional-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - AUS - Optional (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rt-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rt-beta-rpms/
+name = Red Hat Enterprise Linux for Real Time Beta (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-hana-for-rhel-7-server-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-hana-for-rhel-7-server-beta-source-rpms/
+name = Red Hat Enterprise Linux for SAP HANA (RHEL 7 Server) Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aos-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aos-beta-source-rpms/
+name = Atomic OpenShift Platform Early Access (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-big-data-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-big-data-for-rhel-7-server-debug-rpms/
+name = Red Hat Gluster Storage 3.1 Big Data (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-installer-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-installer-debug-rpms/
+name = Red Hat Ceph Storage Installer 1.3 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-mrg-messaging-3-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-mrg-messaging-3-source-rpms/
+name = Red Hat Enterprise MRG Messaging 3 for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-cert-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-cert-beta-source-rpms/
+name = Red Hat Certification Beta (for RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhn-tools-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhn-tools-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-debug-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-fastrack-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-fastrack-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) - Fastrack (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-hana-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-hana-for-rhel-7-server-source-rpms/
+name = Red Hat Enterprise Linux for SAP HANA (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhevh-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhevh-source-rpms/
+name = Red Hat Enterprise Virtualization Hypervisor 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-tools-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-tools-source-rpms/
+name = Red Hat Ceph Storage Tools 1.3 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-debug-rpms/
+name = Red Hat Enterprise Linux OpenStack Platform 7.0 for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-console-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-console-for-rhel-7-server-rpms/
+name = Red Hat Gluster Storage 3.1 Console (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-fastrack-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-fastrack-rpms/
+name = Red Hat Enterprise Linux 7 Server - Fastrack (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rt-htb-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rt-htb-source-rpms/
+name = Red Hat Enterprise Linux for Real Time HTB (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-beta-cts-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-beta-cts-rpms/
+name = Red Hat OpenStack Beta Certification Test Suite for Server 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-5.0-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-5.0-rpms/
+name = Red Hat OpenStack 5.0 for RHEL 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-satellite-tools-6.1-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-satellite-tools-6.1-source-rpms/
+name = Red Hat Satellite Tools 6.1 (for RHEL 7 Server - AUS) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-calamari-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-calamari-rpms/
+name = Red Hat Ceph Storage Calamari 1.2 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[jws-3-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/jws-3-for-rhel-7-server-debug-rpms/
+name = JBoss Web Server 3 (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-fastrack-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-fastrack-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional Fastrack (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-thirdparty-oracle-java-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-thirdparty-oracle-java-beta-rpms/
+name = Red Hat Enterprise Linux 7 Server - Oracle Java Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhevh-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhevh-rpms/
+name = Red Hat Enterprise Virtualization Hypervisor 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-eap-6-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/jb-eap-6-for-rhel-7-server-debug-rpms/
+name = JBoss Enterprise Application Platform 6 (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aep-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aep-beta-debug-rpms/
+name = Atomic Enterprise Platform Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-lb-for-rhel-7-server-htb-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-lb-for-rhel-7-server-htb-debug-rpms/
+name = Red Hat Enterprise Linux Load Balancer (for RHEL 7 Server) HTB (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-installer-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-installer-source-rpms/
+name = Red Hat Ceph Storage Installer 1.3 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-atomic-host-rpms]
+baseurl=http://192.168.10.100/repos/rhel-atomic-host-rpms/
+name = Red Hat Enterprise Linux Atomic Host (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-htb-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-htb-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server HTB (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-rhn-tools-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-rhn-tools-source-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server - Extended Update Support (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-for-rhel-7-server-rpms/
+name = Red Hat Gluster Storage 3.1 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rt-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rt-debug-rpms/
+name = Red Hat Enterprise Linux for Real Time (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-for-rhel-7-server-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-for-rhel-7-server-beta-rpms/
+name = Red Hat Enterprise Linux for SAP (RHEL 7 Server) Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-source-rpms/
+name = Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-extras-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-extras-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extras (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-eap-6.4-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/jb-eap-6.4-for-rhel-7-server-source-rpms/
+name = JBoss Enterprise Application Platform 6.4 (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-for-rhel-7-server-debug-rpms/
+name = Red Hat Gluster Storage 3.1 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-mrg-messaging-3-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-mrg-messaging-3-debug-rpms/
+name = Red Hat Enterprise MRG Messaging 3 for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-6.0-installer-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-6.0-installer-debug-rpms/
+name = Red Hat OpenStack 6.0 for RHEL 7 Platform Installer (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aos-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aos-beta-debug-rpms/
+name = Atomic OpenShift Early Access (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-atomic-host-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-atomic-host-beta-rpms/
+name = Red Hat Enterprise Linux Atomic Host Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-htb-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-htb-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional HTB (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-x86_64-server-7-mrg-messaging-2-rpms]
+baseurl=http://192.168.10.100/repos/rhel-x86_64-server-7-mrg-messaging-2-rpms/
+name = Red Hat Enterprise MRG Messaging 2 for RHEL 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-fastrack-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-fastrack-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Fastrack (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-atomic-preview-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-atomic-preview-source-rpms/
+name = Red Hat Enterprise Linux Atomic Host Preview (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-for-rhel-7-server-source-rpms/
+name = Red Hat Gluster Storage 3.1 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-atomic-host-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-atomic-host-beta-source-rpms/
+name = Red Hat Enterprise Linux Atomic Host Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-htb-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-htb-source-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) HTB (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-optional-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-optional-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - Optional (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-eus-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-eus-debug-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) - Extended Update Support (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-optools-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-optools-source-rpms/
+name = Red Hat Enterprise Linux OpenStack Platform 7.0 Operational Tools for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-lb-for-rhel-7-server-htb-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-lb-for-rhel-7-server-htb-source-rpms/
+name = Red Hat Enterprise Linux Load Balancer (for RHEL 7 Server) HTB (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[cf-me-5.5-for-rhel-7-debug-rpms]
+baseurl=http://192.168.10.100/repos/cf-me-5.5-for-rhel-7-debug-rpms/
+name = Red Hat CloudForms Management Engine 5.5 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-server-rhscl-7-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-server-rhscl-7-beta-rpms/
+name = Red Hat Software Collections Beta RPMs for Red Hat Enterprise Linux 7 Server
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-beta-source-rpms/
+name = Red Hat Enterprise Linux 7 Server Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-eap-6.4-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/jb-eap-6.4-for-rhel-7-server-rpms/
+name = JBoss Enterprise Application Platform 6.4 (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-osd-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-osd-source-rpms/
+name = Red Hat Ceph Storage OSD 1.3 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-satellite-tools-6-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-satellite-tools-6-beta-source-rpms/
+name = Red Hat Satellite Tools 6 Beta (for RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-beta-rpms/
+name = Red Hat OpenStack Beta for Server 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhev-mgmt-agent-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhev-mgmt-agent-rpms/
+name = Red Hat Enterprise Virtualization Management Agents for RHEL 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-htb-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-htb-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional HTB (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-v2vwin-1-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-v2vwin-1-rpms/
+name = Red Hat Virt V2V Tool for RHEL 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-ose-3.1-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-ose-3.1-rpms/
+name = Red Hat OpenShift Enterprise 3.1 (RPMs)
+enabled = 1
+gpgcheck=0
+
+[rhel-sap-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-for-rhel-7-server-debug-rpms/
+name = Red Hat Enterprise Linux for SAP (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-mon-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-mon-source-rpms/
+name = Red Hat Ceph Storage MON 1.3 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-satellite-tools-6.1-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-satellite-tools-6.1-rpms/
+name = Red Hat Satellite Tools 6.1 (for RHEL 7 Server - AUS) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-samba-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-samba-for-rhel-7-server-source-rpms/
+name = Red Hat Gluster Storage 3.1 Samba (for RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-eus-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-eus-debug-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) - Extended Update Support (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-installer-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-installer-debug-rpms/
+name = Red Hat Ceph Storage Installer 1.2 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-beta-debug-rpms/
+name = Red Hat OpenStack Beta for Server 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rh-common-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rh-common-beta-rpms/
+name = Red Hat Enterprise Linux 7 Server - RH Common Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-cert-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-cert-source-rpms/
+name = Red Hat Certification (for RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-calamari-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-calamari-source-rpms/
+name = Red Hat Ceph Storage Calamari 1.3 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-server-rhscl-7-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-server-rhscl-7-debug-rpms/
+name = Red Hat Software Collections Debug RPMs for Red Hat Enterprise Linux 7 Server
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-osd-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-osd-rpms/
+name = Red Hat Ceph Storage OSD 1.3 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-calamari-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-calamari-debug-rpms/
+name = Red Hat Ceph Storage Calamari 1.3 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-extras-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-extras-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extras (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-server-rhscl-7-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-server-rhscl-7-source-rpms/
+name = Red Hat Software Collections Source RPMs for Red Hat Enterprise Linux 7 Server
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-calamari-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-calamari-rpms/
+name = Red Hat Ceph Storage Calamari 1.3 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-ews-2-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/jb-ews-2-for-rhel-7-server-source-rpms/
+name = JBoss Enterprise Web Server 2 (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhn-tools-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhn-tools-beta-source-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-htb-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-htb-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional HTB (RPMs)
+enabled = 0
+gpgcheck=0
+
+[jws-3-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/jws-3-for-rhel-7-server-source-rpms/
+name = JBoss Web Server 3 (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-beta-source-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-nfs-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-nfs-for-rhel-7-server-debug-rpms/
+name = Red Hat Gluster Storage 3.1 NFS (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rh-common-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rh-common-rpms/
+name = Red Hat Enterprise Linux 7 Server - RH Common (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-extras-htb-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-extras-htb-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extras HTB (RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-eap-6.3-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/jb-eap-6.3-for-rhel-7-server-debug-rpms/
+name = JBoss Enterprise Application Platform 6.3 (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-htb-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-htb-debug-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) HTB (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-optools-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-optools-rpms/
+name = Red Hat Enterprise Linux OpenStack Platform 7.0 Operational Tools for RHEL 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-ose-3.1-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-ose-3.1-debug-rpms/
+name = Red Hat OpenShift Enterprise 3.1 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[a-mq-clients-1-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/a-mq-clients-1-for-rhel-7-server-rpms/
+name = JBoss A-MQ Clients 1 (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhcmsys-9-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhcmsys-9-rpms/
+name = Red Hat Certificate System 9 RPMs (for RHEL 7 Server)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhev-mgmt-agent-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhev-mgmt-agent-source-rpms/
+name = Red Hat Enterprise Virtualization Management Agents for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-satellite-tools-6.1-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-satellite-tools-6.1-rpms/
+name = Red Hat Satellite Tools 6.1 (for RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-satellite-tools-6.1-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-satellite-tools-6.1-source-rpms/
+name = Red Hat Satellite Tools 6.1 (for RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-optional-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-optional-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - Optional (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-hana-for-rhel-7-server-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-hana-for-rhel-7-server-beta-rpms/
+name = Red Hat Enterprise Linux for SAP HANA (RHEL 7 Server) Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-v2vwin-1-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-v2vwin-1-source-rpms/
+name = Red Hat Virt V2V Tool for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-eap-6.3-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/jb-eap-6.3-for-rhel-7-server-rpms/
+name = JBoss Enterprise Application Platform 6.3 (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rh-common-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rh-common-beta-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - RH Common Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhds-10-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhds-10-debug-rpms/
+name = Red Hat Directory Server 10 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-fastrack-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-fastrack-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Fastrack (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-supplementary-debuginfo]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-supplementary-debuginfo/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - Supplementary (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sjis-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sjis-for-rhel-7-server-rpms/
+name = Red Hat Enterprise Linux for S-JIS (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-supplementary-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-supplementary-beta-rpms/
+name = Red Hat Enterprise Linux 7 Server - Supplementary Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-beta-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-eap-6.4-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/jb-eap-6.4-for-rhel-7-server-debug-rpms/
+name = JBoss Enterprise Application Platform 6.4 (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-thirdparty-oracle-java-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-thirdparty-oracle-java-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - Oracle Java (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-source-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-fastrack-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-fastrack-source-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) - Fastrack (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rh-common-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rh-common-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - RH Common (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-tools-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-tools-debug-rpms/
+name = Red Hat OpenStack Tools 7.0 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-beta-source-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-splunk-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-splunk-for-rhel-7-server-rpms/
+name = Red Hat Gluster Storage 3.1 Splunk (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-installer-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-installer-rpms/
+name = Red Hat Ceph Storage Installer 1.2 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-rhn-tools-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-rhn-tools-debug-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server - Extended Update Support (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-hts-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-hts-rpms/
+name = Red Hat Hardware Certification Test Suite (for RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhn-tools-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhn-tools-debug-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhev-mgmt-agent-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhev-mgmt-agent-beta-rpms/
+name = Red Hat Enterprise Virtualization Management Agents Beta for RHEL 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-rhn-tools-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-rhn-tools-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server - Extended Update Support (RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-eap-6.3-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/jb-eap-6.3-for-rhel-7-server-source-rpms/
+name = JBoss Enterprise Application Platform 6.3 (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-optional-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-optional-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - Optional (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-atomic-host-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-atomic-host-source-rpms/
+name = Red Hat Enterprise Linux Atomic Host (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rpms/
+name = Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 1
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) (RPMs)
+enabled = 1
+gpgcheck=0
+
+[rh-gluster-3-big-data-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-big-data-for-rhel-7-server-rpms/
+name = Red Hat Gluster Storage 3.1 Big Data (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-6.0-installer-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-6.0-installer-source-rpms/
+name = Red Hat OpenStack 6.0 for RHEL 7 Platform Installer (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - AUS (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhev-mgmt-agent-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhev-mgmt-agent-beta-debug-rpms/
+name = Red Hat Enterprise Virtualization Management Agents Beta for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-5.0-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-5.0-source-rpms/
+name = Red Hat OpenStack 5.0 for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rh-common-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rh-common-beta-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - RH Common Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-htb-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-htb-source-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) HTB (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-eap-6-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/jb-eap-6-for-rhel-7-server-source-rpms/
+name = JBoss Enterprise Application Platform 6 (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-supplementary-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-supplementary-beta-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - Supplementary Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-client-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-client-for-rhel-7-server-source-rpms/
+name = Red Hat Storage Native Client for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhcmsys-9-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhcmsys-9-debug-rpms/
+name = Red Hat Certificate System 9 Debug RPMs (for RHEL 7 Server)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rt-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rt-source-rpms/
+name = Red Hat Enterprise Linux for Real Time (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-rhn-tools-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-rhn-tools-source-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server - AUS (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-5.0-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-5.0-debug-rpms/
+name = Red Hat OpenStack 5.0 for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhevh-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhevh-beta-source-rpms/
+name = Red Hat Enterprise Virtualization Hypervisor 7 Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-hana-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-hana-for-rhel-7-server-debug-rpms/
+name = Red Hat Enterprise Linux for SAP HANA (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-htb-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-htb-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) HTB (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-htb-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-htb-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) HTB (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-osd-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-osd-source-rpms/
+name = Red Hat Ceph Storage OSD 1.2 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rt-htb-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rt-htb-debug-rpms/
+name = Red Hat Enterprise Linux for Real Time HTB (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sjis-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sjis-for-rhel-7-server-source-rpms/
+name = Red Hat Enterprise Linux for S-JIS (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-optools-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-optools-debug-rpms/
+name = Red Hat Enterprise Linux OpenStack Platform 7.0 Operational Tools for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-beta-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-beta-debug-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-tools-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-tools-rpms/
+name = Red Hat Ceph Storage Tools 1.3 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-rpms/
+name = Red Hat Enterprise Linux 7 Server - AUS (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhds-10-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhds-10-source-rpms/
+name = Red Hat Directory Server 10 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-beta-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-satellite-tools-6-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-satellite-tools-6-beta-debug-rpms/
+name = Red Hat Satellite Tools 6 Beta (for RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sjis-for-rhel-7-server-aus-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sjis-for-rhel-7-server-aus-rpms/
+name = Red Hat Enterprise Linux for S-JIS (RHEL 7 Server) - AUS (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-server-rhscl-7-eus-rpms]
+baseurl=http://192.168.10.100/repos/rhel-server-rhscl-7-eus-rpms/
+name = Red Hat Software Collections RPMs for Red Hat Enterprise Linux 7 RHEL 7 Server EUS
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-thirdparty-oracle-java-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-thirdparty-oracle-java-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Oracle Java (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-nagios-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-nagios-for-rhel-7-server-source-rpms/
+name = Red Hat Gluster Storage 3.1 Nagios (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-ose-3.1-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-ose-3.1-source-rpms/
+name = Red Hat OpenShift Enterprise 3.1 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[a-mq-clients-1-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/a-mq-clients-1-for-rhel-7-server-source-rpms/
+name = JBoss A-MQ Clients 1 (RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server - AUS (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-rs-for-rhel-7-server-htb-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-rs-for-rhel-7-server-htb-debug-rpms/
+name = Red Hat Enterprise Linux Resilient Storage (for RHEL 7 Server) HTB (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-client-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-client-for-rhel-7-server-rpms/
+name = Red Hat Storage Native Client for RHEL 7 (RPMs)
+enabled = 0
+gpgcheck=0
+
+[a-mq-clients-1-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/a-mq-clients-1-for-rhel-7-server-debug-rpms/
+name = JBoss A-MQ Clients 1 (RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhev-mgmt-agent-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhev-mgmt-agent-beta-source-rpms/
+name = Red Hat Enterprise Virtualization Management Agents Beta for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-fastrack-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-fastrack-source-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) - Fastrack (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-rhn-tools-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-rhn-tools-debug-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server - AUS (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-ha-for-rhel-7-server-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-ha-for-rhel-7-server-debug-rpms/
+name = Red Hat Enterprise Linux High Availability (for RHEL 7 Server) (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-director-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-director-rpms/
+name = Red Hat Enterprise Linux OpenStack Platform 7.0 director for RHEL 7 (RPMs)
+enabled = 1
+gpgcheck=0
+
+[rhel-7-server-supplementary-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-supplementary-rpms/
+name = Red Hat Enterprise Linux 7 Server - Supplementary (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aos-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aos-beta-rpms/
+name = Atomic OpenShift Early Access (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-sap-for-rhel-7-server-beta-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-sap-for-rhel-7-server-beta-source-rpms/
+name = Red Hat Enterprise Linux for SAP (RHEL 7 Server) Beta (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rt-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rt-rpms/
+name = Red Hat Enterprise Linux for Real Time (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-eus-thirdparty-oracle-java-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-eus-thirdparty-oracle-java-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Extended Update Support - Oracle Java (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-nfs-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-nfs-for-rhel-7-server-rpms/
+name = Red Hat Gluster Storage 3.1 NFS (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-installer-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-installer-source-rpms/
+name = Red Hat Ceph Storage Installer 1.2 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rh-gluster-3-big-data-for-rhel-7-server-source-rpms]
+baseurl=http://192.168.10.100/repos/rh-gluster-3-big-data-for-rhel-7-server-source-rpms/
+name = Red Hat Gluster Storage 3.1 Big Data (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-optional-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-optional-rpms/
+name = Red Hat Enterprise Linux 7 Server - Optional (RPMs)
+enabled = 1
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-source-rpms/
+name = Red Hat Enterprise Linux OpenStack Platform 7.0 for RHEL 7 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-htb-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-htb-source-rpms/
+name = Red Hat Enterprise Linux 7 Server HTB (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-satellite-tools-6-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-satellite-tools-6-beta-rpms/
+name = Red Hat Satellite Tools 6 Beta (for RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-osd-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-osd-debug-rpms/
+name = Red Hat Ceph Storage OSD 1.2 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aus-optional-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aus-optional-rpms/
+name = Red Hat Enterprise Linux 7 Server - AUS - Optional (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-hts-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-hts-source-rpms/
+name = Red Hat Hardware Certification Test Suite (for RHEL 7 Server) (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[jb-ews-2-for-rhel-7-server-rpms]
+baseurl=http://192.168.10.100/repos/jb-ews-2-for-rhel-7-server-rpms/
+name = JBoss Enterprise Web Server 2 (RHEL 7 Server) (RPMs)
+enabled = 0
+gpgcheck=0
+
+[cf-me-5.5-for-rhel-7-source-rpms]
+baseurl=http://192.168.10.100/repos/cf-me-5.5-for-rhel-7-source-rpms/
+name = Red Hat CloudForms Management Engine 5.5 (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-aep-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-aep-beta-rpms/
+name = Atomic Enterprise Platform Beta (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhn-tools-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhn-tools-source-rpms/
+name = RHN Tools for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.3-mon-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.3-mon-debug-rpms/
+name = Red Hat Ceph Storage MON 1.3 for Red Hat Enterprise Linux 7 Server (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-supplementary-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-supplementary-source-rpms/
+name = Red Hat Enterprise Linux 7 Server - Supplementary (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-cert-beta-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-cert-beta-rpms/
+name = Red Hat Certification Beta (for RHEL 7 Server)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-rhceph-1.2-mon-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-rhceph-1.2-mon-rpms/
+name = Red Hat Ceph Storage MON 1.2 for Red Hat Enterprise Linux 7 Server (RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-beta-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-beta-debug-rpms/
+name = Red Hat Enterprise Linux 7 Server Beta (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-x86_64-server-7-mrg-messaging-2-debug-rpms]
+baseurl=http://192.168.10.100/repos/rhel-x86_64-server-7-mrg-messaging-2-debug-rpms/
+name = Red Hat Enterprise MRG Messaging 2 for RHEL 7 (Debug RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-7.0-tools-source-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-7.0-tools-source-rpms/
+name = Red Hat OpenStack Tools 7.0 for Red Hat Enterprise Linux 7 Server (Source RPMs)
+enabled = 0
+gpgcheck=0
+
+[rhel-7-server-openstack-6.0-installer-rpms]
+baseurl=http://192.168.10.100/repos/rhel-7-server-openstack-6.0-installer-rpms/
+name = Red Hat OpenStack 6.0 for RHEL 7 Platform Installer (RPMs)
+enabled = 0
+gpgcheck=0
+
